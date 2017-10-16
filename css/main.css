@@ -11,3 +11,12 @@ html {
 h1 {
   font-family: "Bevan";
 }
+
+/* ------------- =navigation-------------- */
+
+nav a {
+  display: block;
+  padding: .6em .5em .75em;
+  margin: 3em;
+  background-color: #713837;
+}
