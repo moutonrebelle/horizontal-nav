@@ -5,3 +5,9 @@ html {
   background-color: #dbd6cf;
   color: #fff;
 }
+
+/* ------------- =heading -------------- */
+
+h1 {
+  font-family: "Bevan";
+}
