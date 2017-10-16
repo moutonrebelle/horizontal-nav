@@ -4,6 +4,7 @@ html {
   line-height: 1.5;
   background-color: #dbd6cf;
   color: #fff;
+  box-sizing: border-box;
 }
 
 /* ------------- =heading -------------- */
@@ -14,7 +15,7 @@ h1 {
 
 /* ------------- =navigation-------------- */
 
-nav a {
+header nav ul li a {
   display: block;
   padding: .6em .5em .75em;
   margin: 3em;
