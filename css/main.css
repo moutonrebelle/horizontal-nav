@@ -7,6 +7,10 @@ html {
   box-sizing: border-box;
 }
 
+*, *::before, *::after {
+box-sizing: inherit;
+}
+
 /* ------------- =heading -------------- */
 
 h1 {
@@ -22,6 +26,6 @@ header nav ul li a {
   background-color: #713837;
 }
 
-a.hover {
+a:hover {
   background-color: #f33;
 }
