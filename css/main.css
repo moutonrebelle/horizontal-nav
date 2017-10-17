@@ -9,7 +9,7 @@ html {
 }
 
 *, *::before, *::after {
-box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 /* ------------- =heading -------------- */
@@ -20,8 +20,9 @@ h1 {
 
 /* ------------- =navigation-------------- */
 
-nav {
+nav ul li {
   font-family: sans-serif;
+  list-style: none;
 }
 
 .cards header nav ul li a {
