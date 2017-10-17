@@ -30,7 +30,7 @@ nav ul li {
   list-style-type: none;
   text-align: center;
 }
-.cards header nav ul li {
+.cards header nav ul {
   display: block;
   background-color: #713837;
 }
