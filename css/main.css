@@ -20,6 +20,10 @@ h1 {
 
 /* ------------- =navigation-------------- */
 
+nav {
+  font-family: sans-serif;
+}
+
 .cards header nav ul li a {
   display: inline-block;
   padding: .6em .5em .75em;
