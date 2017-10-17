@@ -22,13 +22,15 @@ h1 {
 
 nav ul li {
   font-family: sans-serif;
-  list-style: none;
 }
 
-.cards header nav ul li a {
-  display: inline-block;
-  padding: .6em .5em .75em;
+.cards {
   margin: 3em;
+  padding: .6em .5em .75em;
+  display: inline-block;
+  list-style: none;
+}
+.cards header nav ul li a {
   background-color: #713837;
 }
 
