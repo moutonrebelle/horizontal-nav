@@ -19,8 +19,8 @@ h1 {
 
 /* ------------- =navigation-------------- */
 
-header nav ul li a {
-  display: block;
+. cards header nav ul li a {
+  display: inline-block;
   padding: .6em .5em .75em;
   margin: 3em;
   background-color: #713837;
