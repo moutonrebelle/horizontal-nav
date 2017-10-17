@@ -15,7 +15,7 @@ html {
 /* ------------- =heading -------------- */
 
 h1 {
-  font-family: "Bevan";
+  font-family: Bevan;
 }
 
 /* ------------- =navigation-------------- */
@@ -27,10 +27,11 @@ nav ul li {
 .cards {
   margin: 3em;
   padding: .6em .5em .75em;
-  display: inline-block;
-  list-style: none;
+  list-style-type: none;
+  text-align: center;
 }
 .cards header nav ul li a {
+  display: inline-block;
   background-color: #713837;
 }
 
