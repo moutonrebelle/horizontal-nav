@@ -29,6 +29,9 @@ header {
 body {
   font-family: sans-serif;
   margin: 3em;
+  display: block;
+  background-color: #79756f;
+  border-color: #595652;
 }
 
 .cards li {
@@ -37,7 +40,7 @@ body {
   padding: .6em .5em .75em;
   list-style-type: none;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 a {
@@ -47,4 +50,8 @@ a {
 
 .cards li:hover {
   background-color: #f33;
+}
+
+.cards a:hover {
+  color: #fff;
 }
