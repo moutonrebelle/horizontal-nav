@@ -16,12 +16,14 @@ html {
 
 h1 {
   font-family: Bevan;
-  display: block;
-  background-color: #f9f56f;
-
 }
 
 /* ------------- =navigation-------------- */
+
+body {
+  display: block;
+  background-color: #f9f56f;
+}
 
 nav ul li {
   font-family: sans-serif;
