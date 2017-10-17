@@ -34,6 +34,7 @@ nav ul li {
   padding: .6em .5em .75em;
   list-style-type: none;
   text-align: center;
+  border-radius: 25px;
 }
 
 .cards nav ul li a {
