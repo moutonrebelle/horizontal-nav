@@ -23,6 +23,7 @@ h1 {
 body {
   display: block;
   background-color: #79756f;
+  border-color: #595652;
 }
 
 nav ul li {
@@ -38,7 +39,7 @@ nav ul li {
 }
 
 .cards nav ul li a {
-  display: block;
+  display: inline-block;
   background-color: #713837;
 }
 
