@@ -22,7 +22,7 @@ h1 {
 
 body {
   display: block;
-  background-color: #f9f56f;
+  background-color: #79756f;
 }
 
 nav ul li {
@@ -35,7 +35,8 @@ nav ul li {
   list-style-type: none;
   text-align: center;
 }
-.cards header nav ul li a{
+
+.cards nav ul li a {
   display: inline-block;
   background-color: #713837;
 }
