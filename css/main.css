@@ -15,7 +15,7 @@ html {
 /* ------------- =heading -------------- */
 
 h1 {
-  font-family: Bevan;
+  font-family: Bevan, serif;
 }
 
 /* ------------- =navigation-------------- */
@@ -28,7 +28,7 @@ header {
 
 body {
   font-family: sans-serif;
-  margin: 3em;
+  margin: .3em;
 }
 
 .cards li {
@@ -47,10 +47,6 @@ a {
   color: #fff;
 }
 
-.cards li:hover {
+.cards nav:hover {
   background-color: #f33;
-}
-
-.cards a:hover {
-  color: #fff;
 }
