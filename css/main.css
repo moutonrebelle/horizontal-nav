@@ -36,7 +36,7 @@ nav ul li {
   text-align: center;
 }
 
-.cards nav ul li a {
+.cards nav ul li div {
   display: inline-block;
   background-color: #713837;
 }
