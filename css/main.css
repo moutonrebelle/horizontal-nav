@@ -20,13 +20,13 @@ h1 {
 
 /* ------------- =navigation-------------- */
 
-body {
+header {
   display: block;
   background-color: #79756f;
   border-color: #595652;
 }
 
-nav ul li {
+body {
   font-family: sans-serif;
 }
 
@@ -40,6 +40,11 @@ nav ul li {
   border-radius: 10px;
 }
 
-nav li a:hover {
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.cards li a:hover {
   background-color: #f33;
 }
