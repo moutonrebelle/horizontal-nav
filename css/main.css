@@ -23,7 +23,7 @@ h1 {
 header {
   display: block;
   background-color: #79756f;
-  border-color: #595652;
+  border: 3px solid #595652;
 }
 
 body {
@@ -34,10 +34,12 @@ body {
 .cards li {
   display: inline-block;
   background-color: #713837;
+  margin: 0 .5em 1em;
   padding: .6em .5em .75em;
   list-style-type: none;
   text-align: center;
   border-radius: 5px;
+  max-width: 20em;
 }
 
 a {
