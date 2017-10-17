@@ -5,6 +5,7 @@ html {
   background-color: #dbd6cf;
   color: #fff;
   box-sizing: border-box;
+  text-align: center;
 }
 
 *, *::before, *::after {
