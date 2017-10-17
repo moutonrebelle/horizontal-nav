@@ -38,7 +38,12 @@ nav ul li {
   border-radius: 25px;
 }
 
-.cards nav ul li a {
+.cards nav ul li {
+  display: inline-block;
+  background-color: #713837;
+}
+
+li {
   display: inline-block;
   background-color: #713837;
 }
