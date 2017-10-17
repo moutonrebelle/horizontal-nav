@@ -19,7 +19,7 @@ h1 {
 
 /* ------------- =navigation-------------- */
 
-. cards header nav ul li a {
+.cards header nav ul li a {
   display: inline-block;
   padding: .6em .5em .75em;
   margin: 3em;
