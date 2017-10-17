@@ -30,8 +30,8 @@ nav ul li {
   list-style-type: none;
   text-align: center;
 }
-.cards header nav ul li a {
-  display: inline-block;
+.cards header nav ul li {
+  display: block;
   background-color: #713837;
 }
 
