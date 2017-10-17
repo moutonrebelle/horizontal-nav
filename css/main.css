@@ -29,9 +29,6 @@ header {
 body {
   font-family: sans-serif;
   margin: 3em;
-  display: block;
-  background-color: #79756f;
-  border-color: #595652;
 }
 
 .cards li {
