@@ -16,6 +16,9 @@ html {
 
 h1 {
   font-family: Bevan;
+  display: block;
+  background-color: #f9f56f;
+
 }
 
 /* ------------- =navigation-------------- */
@@ -30,7 +33,7 @@ nav ul li {
   list-style-type: none;
   text-align: center;
 }
-.cards header nav ul {
+.cards header nav ul li a{
   display: inline-block;
   background-color: #713837;
 }
