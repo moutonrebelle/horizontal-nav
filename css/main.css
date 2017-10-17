@@ -28,18 +28,19 @@ header {
 
 body {
   font-family: sans-serif;
-  margin: .3em;
+  margin: 0 .5em 1em;
 }
 
 .cards li {
   display: inline-block;
   background-color: #713837;
-  margin: 0 .5em 1em;
+  margin: .3em;
   padding: .6em .5em .75em;
   list-style-type: none;
   text-align: center;
   border-radius: 5px;
   max-width: 20em;
+  margin: .3em;
 }
 
 a {
