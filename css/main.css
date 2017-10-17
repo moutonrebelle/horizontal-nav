@@ -45,6 +45,6 @@ a {
   color: #fff;
 }
 
-.cards li a:hover {
+.cards li:hover {
   background-color: #f33;
 }
