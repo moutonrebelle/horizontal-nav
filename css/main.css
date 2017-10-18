@@ -16,6 +16,7 @@ html {
 
 h1 {
   font-family: Bevan, serif;
+  margin: .3em;
 }
 
 /* ------------- =navigation-------------- */
@@ -31,10 +32,14 @@ body {
   margin: 0;
 }
 
+nav ul {
+  vertical-align: middle;
+  padding: 0;
+}
+
 .cards li {
   display: inline-block;
   background-color: #713837;
-  align-items: center;
   margin-bottom: .3em;
   padding: .6em .5em .75em;
   list-style-type: none;
